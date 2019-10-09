@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #ebefd0;
+  }
+  .container {
+    margin: auto;
+  }
+  #myCanvas {
+      padding-left: 0;
+      padding-right: 0;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      border: 2px solid black;
+  }
+  #canvas_picker {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  .colorbox {
+      width: 735px;
+      padding-left: 0;
+      padding-right: 0;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+  }
+  h2 {
+      display: block;
+      width: fit-content;
+      margin: auto;
+      padding-bottom: 25px;
+      padding-top: 10px;
+      font-family: cursive;
+      font-size: 42px;
+      text-decoration: underline;
+  }
+
+  *{margin:0;}
+  canvas{
+      background:transparent;
+ }
